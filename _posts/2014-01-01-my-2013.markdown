@@ -1,8 +1,0 @@
----
-layout: post
-title: "My 2013"
-categories: [Other]
-tags: [2013]
----
-{% include codepiano/setup %}
-测试
