@@ -48,7 +48,7 @@ tags: [Javascript]
 
 这里就不把全部代码写下来了，因为大家的Storage封装可能都不太一样。
 
-不得不说在开发Web App的时候，IPhone上的坑真是多的惊人，明明在android上能完美运行的代码在IPhone上就是出各种莫名其妙问题，果然我是没办法喜欢上IPhone啊。  
+不得不说不管是在开发Wap还是Web App，IPhone上的坑都是多的惊人，明明在android上能完美运行的代码在IPhone上就是出各种莫名其妙问题，果然我是没办法喜欢上IPhone啊。  
 
 PS:关于Web App开发能使用的UI框架，最近百度的团队正要开源一个Web App的框架blend UI，在演示现场运行的时候确实有着不错的效果。  
 经常要做Web App的人可以关注一下blend UI的开源进度，相信肯定会对提高大家在开发Web App时的效率上有一定的帮助。
