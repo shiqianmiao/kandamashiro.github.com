@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Web "
-categories: [JavaScript]
-tags: [Javascript]
+title: "Web Components -- Web组件标准化的未来"
+categories: [HTML]
+tags: [Javascript, HTML]
 ---
 {% include codepiano/setup %}
 
